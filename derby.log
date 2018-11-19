@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 19 10:07:14 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0167-2cb9-cf0c-000006b02978 
+on database directory C:\Users\Zach\Google Drive\School Work\DistributedJava\Project07\ScheduleDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/JavaServer/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=C:\Users\Zach\Google Drive\School Work\DistributedJava\Project07
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
